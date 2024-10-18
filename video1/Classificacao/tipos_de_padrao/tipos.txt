@@ -1,0 +1,12 @@
+16 apresentam o padrão 1 - extingue a célula viva
+48 apresentam o padrão 2 - propaga a célula viva em diagonal com fundo branco
+16 apresentam o padrão 3 - propaga a célula viva em linha reta com fundo branco
+15 apresentam o padrão 4 - propaga a célula viva para todas as células 
+21 apresentam o padrão 5 - propaga a célula viva em diagonal com fundo preto
+6 apresentam o padrão 6 - propaga a célula viva em linha reta com fundo preto
+28 apresentam o padrão 7 - propaga a célula viva em um formato de meio triângulo
+50 apresentam o padrão 8 - propaga a célula viva em um triângulo completo
+6 apresentam o padrão 9 - propaga a célula viva em um triângulo incompleto
+30 apresentam o padrão 10 - propaga a célula viva em diagonal com fundo cinza
+9 apresentam o padrão 11 - propaga a célula viva em linha reta com fundo cinza
+11 apresentam o padrão 12 - propaga a célula viva intercalando entre linhas brancas e pretas
